@@ -1,0 +1,16 @@
+h2
+{
+    background-color: yellow; 
+    color: red; 
+    box-sizing: border-box;
+}
+
+body
+{
+    background-color: lightgray;
+}
+
+h1,p
+{
+    background-color: gray; box-sizing: border-box;
+}
